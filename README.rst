@@ -1,2 +1,2 @@
-- `term project of nsd2020au <./nsd-term-project>`_ 
+- `nsd2020au term project<./nsd-term-project>`_ 
  
